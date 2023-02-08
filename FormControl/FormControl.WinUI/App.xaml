@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="SettingsPanel.App"
+    x:Class="FormControl.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:SettingsPanel">
+    xmlns:local="using:FormControl">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

@@ -13,7 +13,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 
-namespace SettingsPanel.Views
+namespace FormControl.Views
 {
 	public sealed partial class MainPage : Page
 	{

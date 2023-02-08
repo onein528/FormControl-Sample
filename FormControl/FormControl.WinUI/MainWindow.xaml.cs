@@ -19,7 +19,7 @@ using Windows.Foundation.Collections;
 using WinRT.Interop;
 using WinUIEx;
 
-namespace SettingsPanel
+namespace FormControl
 {
 	public sealed partial class MainWindow : WindowEx
 	{
@@ -35,7 +35,7 @@ namespace SettingsPanel
 		private void EnsureEarlyWindow()
 		{
 			// Set title
-			AppWindow.Title = "SettingsPanel";
+			AppWindow.Title = "FormControl";
 
 			// Set icon
 			AppWindow.SetIcon(Path.Combine(Windows.ApplicationModel.Package.Current.InstalledLocation.Path, "Assets/AppTiles/Release/StoreLogo.scale-400.png"));

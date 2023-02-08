@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "SettingsPanel.Package", "SettingsPanel\SettingsPanel.Package\SettingsPanel.Package.wapproj", "{067AA2A3-F680-4776-B1C6-59D638DDB546}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "FormControl.Package", "FormControl\FormControl.Package\FormControl.Package.wapproj", "{067AA2A3-F680-4776-B1C6-59D638DDB546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingsPanel.WinUI", "SettingsPanel\SettingsPanel.WinUI\SettingsPanel.WinUI.csproj", "{879200FA-D700-43D5-8AAB-F5BE92B93867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormControl.WinUI", "FormControl\FormControl.WinUI\FormControl.WinUI.csproj", "{879200FA-D700-43D5-8AAB-F5BE92B93867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
